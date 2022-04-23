@@ -1,0 +1,36 @@
+1 -->  Introduction to OOPS
+2 --> Creating Objects
+3 --> Getter & Setters
+
+4 --> Constructors & this Keyword
+5 --> Inbuilt Constructors & Destructor
+6 --> Play with Constructors
+7 --> Fraction Class
+8 --> Fraction Class - II
+9 --> Complex Number
+
+15 DAYS
+--> 1 DAY FOR EF (19)
+
+14 DAYS
+--> 2 DAY FOR DS (17, 18)
+
+12 DAYS
+--> 3 DAY FOR EF (14, 15, 16)
+
+2 DAYS
+--> 9 DAY FOR DBMS
+(5, ..... , 13)
+
+---> DBMS
+---> DS
+---> DF
+---> P&S
+---> EF
+
+
+EF - 20
+P&S - 21
+DS - 22
+DBMS - 25
+DF - 26

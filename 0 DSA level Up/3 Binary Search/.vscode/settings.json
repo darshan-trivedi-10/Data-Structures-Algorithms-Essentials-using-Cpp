@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "regex": "c",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
