@@ -1,4 +1,4 @@
-/*
+
 Operation on Hashtable :
 1) Search 
 2) insert
@@ -97,5 +97,3 @@ int main()
 }
 
 
-
-*/
